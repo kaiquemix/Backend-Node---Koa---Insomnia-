@@ -62,6 +62,7 @@ Antes de começar, você precisará ter as seguintes ferramentas instaladas em s
 * [Docker](https://www.docker.com/products/docker-desktop/) (para rodar o RabbitMQ facilmente)
 
 ### ⚙️ Configuração
+# ⚙️ DESCONCIDERE POR ENQUANTO... FASE DE CONSTRUÇÃO INICIAL - 
 
 1.  **Clone o repositório:**
     ```bash
